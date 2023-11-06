@@ -7,7 +7,7 @@
     "From": "Montevideo",
     "Living in": "Montevideo - Uruguay 🇺🇾",
     "Studying": "Software Development at Holberton School 🇺🇾"
-    "Passion": Jiu Jitsu (Purple Belt) 
+    "Passion": "Jiu Jitsu (Purple Belt)" 
   },
  
   "Education": {
