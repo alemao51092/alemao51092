@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Martinez</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemao51092&label=Profile%20views&color=0e75b6&style=flat" alt="alemao51092" /> </p>
 
-- 🔭 I’m currently working on React)
+- 🔭 I’m currently working on React
 
 - 📫 How to reach me **aarielmartinez1111@gmail.com**
 
